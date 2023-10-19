@@ -11,7 +11,7 @@
 # print(value1)
 # print(vaiue2)
 # print(value3)
-kawser=1123
+kawser=1124
 print(kawser, type(kawser),type(str(kawser)))
 print(bool(0))
 # print("your id is:",kawser)
