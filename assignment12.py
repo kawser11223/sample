@@ -1,5 +1,5 @@
-# value1=int(input("enter your number:"))
-# value2=int(input("enter your number:"))
+# value1=int(input("please enter your number:"))
+# value2=int(input("please enter your number:"))
 # symbol=(input("enter your symbol:"))
 # def calculate(value1, value2, Symbol):
 #     if Symbol == "+":
