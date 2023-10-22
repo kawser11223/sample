@@ -16,3 +16,4 @@ print(kawser, type(kawser),type(str(kawser)))
 print(bool(0))
 # print("your id is:",kawser)
 # print(10+kawser)
+variable=10
